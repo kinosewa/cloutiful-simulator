@@ -1,4 +1,5 @@
 # cloutiful-simulator
+aun está muy culero este pedo, faltan muchas mas cosas pero es preliminar pa calarlo
 vas a tener 3 variables a las q les vas a meter tu cosas we (las defaults son "n" pa la tecla del singletap (que debe de ser dks_key y k1), "m" pa tu otra tecla (k2) y "o" para detener el pedo este (stop_key)
 
 dks_key = "tu tecla del singletap we"
