@@ -1,4 +1,4 @@
-# jajajajajajjaajjajajsjajsajsajjajsjaj
+# copyright: tu mama pelona 1912-2019 :v xDXdXDxd culichi mi perra
 
 import time
 import random
